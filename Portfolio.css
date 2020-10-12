@@ -1,0 +1,12 @@
+.fakeimg {
+    height: 300px;
+    width: 200px;
+    background: image();
+    flood-opacity: 0%;
+   
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
