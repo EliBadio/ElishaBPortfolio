@@ -9,4 +9,10 @@
     background: #007bb5;
     color: white;
   }
-  
+  .fakeimg2 {
+    height: 30px;
+    width: 20px;
+    background: image();
+    flood-opacity: 0%;
+   
+  }
